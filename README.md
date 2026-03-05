@@ -2,11 +2,6 @@
 
 This repository contains custom firmware for the **Hobby Components V2 4x4x4 LED Cube**. It completely replaces the default factory demo with a continuous, endlessly looping 3D light show, pushing the ATmega328 chip to its limits to create volumetric effects, physics simulations, and custom text.
 
-## 🎬 Demo
-<p align="center">
-  <img src="images/cube_demo.gif" alt="4x4x4 LED Cube Animations" width="600">
-</p>
-
 
 ## 📑 Table of Contents
 - [Software Prerequisites](#-software-prerequisites)
